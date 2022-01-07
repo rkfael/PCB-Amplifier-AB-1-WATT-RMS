@@ -11,7 +11,7 @@ You can order the fabrication according to your preferences of color, thickness,
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Amplifier-AB-1-WATT-RMS/blob/main/Gerber_AMP%20AB.zip)
 
-Download Schematic: [PDF](https://github.com/rkfael/PCB-Amplifier-AB-1-WATT-RMS/blob/main/Amplificador%20Classe%20AB.pdf)
+Download Schematic: [PDF](https://github.com/rkfael/PCB-Amplifier-AB-1-WATT-RMS/blob/main/Amplificador%20Classe%20AB%20-%201%20WATT%20RMS.pdf)
 
 Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=|b349f3b6f06a43028c3f2af08a757699|f897b1c25bd2403f9c85b9d33ce35266)
 
