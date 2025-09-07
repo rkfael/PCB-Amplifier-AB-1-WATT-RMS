@@ -3,11 +3,11 @@
 
 <h2 align="center"> Short Articles Series </h2>
 
-You can use this amplifier for small audio circuits.
+You can use this amplifier in small audio circuits.
 
-I made this PCB using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+I designed this PCB keychain using EasyEDA software and then ordered it online from [*JLCPCB*](https://jlcpcb.com/?from=RMW)
 
-You can order the fabrication according to your preferences of color, thickness, PCB material and more.
+You can customize the fabrication according to your preferences for color, thickness, PCB material, and more.
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Amplifier-AB-1-WATT-RMS/blob/main/Gerber_AMP%20AB.zip)
 
@@ -31,8 +31,8 @@ Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=|b349f3b6f06a
 
 ## More about it:
 
-For more pictures and PCB Art ideas check my Instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
+For more pictures and PCB art ideas, check out my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
-Subscribe at my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
+Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
